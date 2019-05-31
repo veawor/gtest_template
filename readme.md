@@ -4,7 +4,20 @@ This guide describes how to quickly construct C++ projects for test automation o
 
 ## Contents
 
-[TOC]
+- [C++ project templates to construct projects for test automation](#c-project-templates-to-construct-projects-for-test-automation)
+  - [Contents](#contents)
+  - [Folder Structure](#folder-structure)
+  - [Getting Started on Windows](#getting-started-on-windows)
+    - [Prerequisite](#prerequisite)
+    - [Quick-start Steps](#quick-start-steps)
+    - [Code coverage analysis by Visual Studio Enterprise](#code-coverage-analysis-by-visual-studio-enterprise)
+  - [Getting Started on Linux](#getting-started-on-linux)
+    - [Installations](#installations)
+    - [Tips of constructing unit test projects](#tips-of-constructing-unit-test-projects)
+    - [Code coverage analysis by gcov and gcovr](#code-coverage-analysis-by-gcov-and-gcovr)
+  - [Unit test on Jenkins](#unit-test-on-jenkins)
+  - [Future of Work](#future-of-work)
+  - [Reference](#reference)
 
 ## Folder Structure
 
